@@ -80,7 +80,7 @@
                       <q-input
                         filled
                         v-model="email"
-                        type="text"
+                        type="email"
                         label="Email"
                         lazy-rules
                         :rules="[
